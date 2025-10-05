@@ -6,3 +6,6 @@ def cancel_appointment():
 
 def check_pending_appointments():
     print("Pending appointmennt")
+
+
+    
