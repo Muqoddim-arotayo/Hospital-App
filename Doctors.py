@@ -9,7 +9,7 @@ def doc_user_sign_up():
     email_address = input("Enter your Email Address : ")
     phone_number = input("Enter your phone number : ")
     Password = input("Enter your Password : ")    
-    confirm_password = input("Confirm Password : ")
+    confirm_password = input("Confirm Password : ")    
    
 class Doctor :
     global doctor_count
